@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Command/ExportDatabaseCommand.php</file>
+            <file>file:/var/www/sync/vendor/symfony/console/Symfony/Component/Console/Command/Command.php</file>
+            <file>file:/var/www/sync/excludes/sync_var.txt</file>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Utils/ExternDriveTools.php</file>
+            <file>file:/var/www/sync/sync</file>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Command/SyncCommand.php</file>
+            <file>file:/var/www/sync/vendor/symfony/process/Symfony/Component/Process/Process.php</file>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Exec/Synchronizer.php</file>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Exec/DatabaseExporter.php</file>
+            <file>file:/var/www/sync/src/Ifendirh/SyncBundle/Exec/BaseExec.php</file>
+        </group>
+    </open-files>
+</project-private>

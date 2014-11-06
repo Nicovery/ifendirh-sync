@@ -1,0 +1,3 @@
+phpmyadmin
+app/cache
+app/logs
